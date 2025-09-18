@@ -1,4 +1,12 @@
-## Hi there 👋
+  ## Sejam Bem-vindos ao Meu Mundo!
+
+  ![ Git webDev] (https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTgyMTg5NzgsIm5iZiI6MTc1ODIxODY3OCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTE4VDE4MDQzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNiODViZDQ1NzFhZmMyMDZlYmM5OGQxZDI2NmRmMDE0YWEwMzkzODY5ODk4NTBmZTUyYTk4MDc4YzZiOWU0OGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.9m_8u1vjcf07WZNCp-tyvj8DXb3F4mC2yoXjDNTR__w)
+
+  ----------------------------
+  👩 Olá, me chamo Tais Jesus!
+
+  💻 Sou estudante de Engenharia da Computação pela UNIVESP
+  
 
 <!--
 **Taysjesus/Taysjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
