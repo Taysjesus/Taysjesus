@@ -1,10 +1,13 @@
   ## Sejam Bem-vindos ao Meu Mundo!
 
+  👩 Olá, sou a Tais Jesus!
 
-  ----------------------------
-  👩 Olá, me chamo Tais Jesus!
+🎓 Estudante de **Engenharia da Computação** na [UNIVESP](https://univesp.br/) – atualmente no **7º semestre**  
+💻 Apaixonada por **Tecnologia, Programação Front-End e Cibersegurança**  
+📚 Estudando: **HTML | CSS | JavaScript | Git/GitHub | Excel | Inglês**  
+🌱 Sempre buscando aprender mais sobre **DevOps, programação e Segurança da Informação** 
 
-  💻 Sou estudante de Engenharia da Computação pela UNIVESP
+
   
 
 <!--
